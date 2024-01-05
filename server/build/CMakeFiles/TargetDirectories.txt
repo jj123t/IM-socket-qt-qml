@@ -1,0 +1,3 @@
+/home/abc/桌面/code/chat_tool/build/CMakeFiles/app.dir
+/home/abc/桌面/code/chat_tool/build/CMakeFiles/edit_cache.dir
+/home/abc/桌面/code/chat_tool/build/CMakeFiles/rebuild_cache.dir
