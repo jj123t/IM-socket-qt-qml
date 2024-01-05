@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.15)
+project(test)
+file(GLOB SRC ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp ${CMAKE_CURRENT_SOURCE_DIR}/test/server.cpp)
+set(EXECUTABLE_OUTPUT_PATH  /home/abc/桌面/code/chat_tool)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+add_executable(app ${SRC})
+target_link_libraries(app -lmysqlcppconn)

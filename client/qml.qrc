@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ContactPage.qml</file>
+        <file>ConversationPage.qml</file>
+        <file>ContactList.qml</file>
+        <file>ContactTrend.qml</file>
+        <file>TalkLabel.qml</file>
+        <file>Login.qml</file>
+        <file>ChatItem.qml</file>
+        <file>FriendItem.qml</file>
+    </qresource>
+</RCC>
